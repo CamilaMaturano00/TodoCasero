@@ -1,13 +1,13 @@
 .pie-de-pagina{
-    background: #bfbfbf;
-    color: #fdfdfd;
-    text-align: right;
+    background: #000000;
+    color: #464646;
     padding: 1.5625rem 5rem;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
 }
 .copyright{
     padding-top: 0.65rem;
+    text-align: center;
 }
 
 .icon i{    

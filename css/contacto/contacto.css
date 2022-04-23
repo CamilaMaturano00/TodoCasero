@@ -1,4 +1,4 @@
-.quienes-somos{
+.contacto{
     text-align: center;
     padding: 5rem;
 }
@@ -21,4 +21,10 @@
 }
 .contacto__imagen a:hover{
     text-decoration: underline;
+}
+
+@media screen and (max-width: 768px){
+    .contacto__imagen img{
+        display: none;
+    }
 }
