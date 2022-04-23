@@ -26,5 +26,10 @@
 @media screen and (max-width: 768px){
     .contacto__imagen img{
         display: none;
+
     }
+    .contacto__imagen a{
+        font-size: 2rem;
+    }
+
 }
