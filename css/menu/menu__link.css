@@ -1,0 +1,15 @@
+.menu__link {
+    color: #e0b1c8;
+    text-decoration: none;
+    margin-right: 1.25rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    transition: all .8s;
+}
+.menu__link .activo{
+    color: #333333;
+    font-weight: bold;
+}
+.menu__link:hover{
+    font-size: 18px;
+}

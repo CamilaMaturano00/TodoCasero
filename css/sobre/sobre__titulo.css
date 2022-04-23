@@ -1,0 +1,16 @@
+.sobre__titulo{
+    color: #e0b1c8;
+    font-family: 'Gwendolyn', cursive;
+    font-weight:700;
+    text-shadow: #CCC 1px 0 10px;
+}
+@media screen and (min-width: 0){
+    .sobre__titulo{
+        font-size: 2rem;
+    }
+}
+@media screen and (min-width: 768px){
+    .sobre__titulo{
+        font-size: 5.1875rem;
+    }
+}

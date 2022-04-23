@@ -1,0 +1,13 @@
+.receta__titulo{
+    font-size: 1.2rem;
+    text-align: center;
+    font-family: 'Open sans', sans-serif;
+    color: #3d3d3d;
+}
+
+#productos h1{
+    padding-top: 20px;
+    text-align: center;
+    color: #e0b1c8;
+    font-size: 60px;
+}
