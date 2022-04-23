@@ -22,7 +22,9 @@
 .contacto__imagen a:hover{
     text-decoration: underline;
 }
-
+.contacto__logo{
+    display: none;
+}
 @media screen and (max-width: 768px){
     .contacto__imagen img{
         display: none;
@@ -31,5 +33,10 @@
     .contacto__imagen a{
         font-size: 2rem;
     }
-
+    .contacto__logo{
+        display: block;
+        width: 100%;
+        align-items: center;
+    }
 }
+
