@@ -2,3 +2,9 @@
     width: 100%;
     height: calc(500px - 50px);
 }
+
+@media screen and (max-width: 768px){
+    .banner__imagen{
+        height: 300px;
+    }
+}

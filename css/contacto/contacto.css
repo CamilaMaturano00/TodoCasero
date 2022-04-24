@@ -34,7 +34,7 @@
         font-size: 2rem;
     }
     .contacto__logo{
-        display: block;
+        display: inline;
         width: 200px;
         align-items: center;
     }
